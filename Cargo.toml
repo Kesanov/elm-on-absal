@@ -1,0 +1,7 @@
+[package]
+name = "elm-on-absal"
+version = "0.1.0"
+authors = ["Josef Vonasek"]
+
+[dependencies]
+elm-eureka = {git = "https://github.com/nicopap/elm-eureka.git"}
